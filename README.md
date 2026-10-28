@@ -1,1 +1,1 @@
-# mlopsise2theory
+# ML DevOps Lab
